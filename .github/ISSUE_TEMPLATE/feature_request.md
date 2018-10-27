@@ -6,7 +6,7 @@ about: This is the template to make a feature request.
 
 ## Request Type
 
-<!-- Either a "Bug Fix", "Feature Request", "Express Order". -->
+<!-- Either a "Feature Request" or "Express Order". -->
 
 ## Information
 
