@@ -4,26 +4,25 @@ about: This is the template to make a feature request.
 
 ---
 
-## Request Type
+**Request Type**
+Either a "Feature Request" or "Express Order".
 
-<!-- Either a "Feature Request" or "Express Order". -->
+**Information**
+Express the description of the request.
 
-## Information
+**Feature Demo**
+Express the features you want to happen.
 
-<!-- Express the description of the request. -->
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
-## Feature Demo
+**Construct Editor**
+ - Construct 2
+ - Construct 3
 
-<!-- Express the features you want to happen. -->
+**Construct Runtime:**
+ - Construct 2
+ - Construct 3
 
-## Construct Editor
-
-<!-- Include one or both of "Construct 2" or "Construct 3". -->
-
-## Construct Runtime
-
-<!-- Include one or both of "Construct 2 Runtime" or "Construct 3 Runtime". -->
-
-## Additional Info
-
-<!-- Additional information that might be needed. -->
+**Additional Info**
+Add any other context about the problem here.
